@@ -1,6 +1,6 @@
 <!-- Profile README for Rishika Verma -->
 <p align="center">
-  <img src="https://github.com/Akshh-bhardwaj/COOL-GIF-FOR-README-/blob/main/cool-gif.gif" width="100%" alt="Cool Header GIF">
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="100%" alt="Cool Header GIF">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Rishika Verma</h1>
