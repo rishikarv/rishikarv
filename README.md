@@ -1,8 +1,10 @@
 <!-- Profile README for Rishika Verma -->
+<p align="center">
+  <img src="https://github.com/Akshh-bhardwaj/COOL-GIF-FOR-README-/blob/main/cool-gif.gif" width="100%" alt="Cool Header GIF">
+</p>
+
 <h1 align="center">Hi there 👋, I'm Rishika Verma</h1>
 <h3 align="center">💫 A Passionate Student | Data Analytics Enthusiast | Python Developer 🐍</h3>
-
-<img align="right" alt="Girl coding" width="370" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ---
 
